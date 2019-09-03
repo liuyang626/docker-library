@@ -1,29 +1,9 @@
-## 招聘信息
-* 公司：中国电信云公司
-* 职业：openstack研发
-* 要求：有openstack研发经验，能对openstack组件做二次开发，或者有志从事云计算开发事业的大牛高手。
-* 薪资：20k-50k
-* 邮箱：yangjf@chinatelecom.cn
 
 ## docker-library
 
 kubernetes 相关 images 同步
 
-# 2018.1.2017
-
-* 新增监控组件heapster v1.5.0
-	
-	包括两个目录:heapster-amd64和addon-resizer(addon-resizer:1.8.1)
-
-# 2017.12.24
-* 将kube的4个组件版本升级到1.9.0
-* 将本文采用markdown格式书写
-	
-# 2017.12.23
-* 删除无关的目录
-* 新增目录kube-aggregator-amd64
-	  
-# 2017.12.23
+# 2019.09.03
 
 	kube-apiserver-amd64:v1.8.4
 	kube-controller-manager-amd64:v1.8.4
